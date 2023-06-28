@@ -1,0 +1,13 @@
+datasets
+fastapi
+keras
+numpy
+opencv-python
+pandas
+pillow
+pydantic
+scikit-learn==1.1.3
+tensorflow
+torch
+transformers
+uvicorn
