@@ -2,7 +2,7 @@ datasets
 fastapi
 keras
 numpy
-opencv-python
+opencv-python-headless
 pandas
 pillow
 pydantic
