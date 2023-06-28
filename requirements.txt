@@ -13,3 +13,4 @@ transformers
 uvicorn
 matplotlib
 torchvision
+seaborn
