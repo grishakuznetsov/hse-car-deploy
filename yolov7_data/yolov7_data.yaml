@@ -1,0 +1,7 @@
+train: ./yolo_dataset/car_damage_dataset/images/train
+val: ./yolo_dataset/car_damage_dataset/images/valid
+test: ./yolo_dataset/car_damage_dataset/images/test
+ 
+# Classes
+nc: 7  # number of classes
+names: ['bumper_dent', 'bumper_scratch', 'door_dent', 'door_scratch', 'glass_shatter', 'head_lamp', 'tail_lamp']  # class names
