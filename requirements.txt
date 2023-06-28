@@ -11,3 +11,4 @@ tensorflow
 torch
 transformers
 uvicorn
+matplotlib
